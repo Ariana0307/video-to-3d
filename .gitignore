@@ -1,0 +1,28 @@
+# Generated outputs (large files)
+outputs/
+checkpoints/
+*.ply
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Video (too large for git)
+*.mp4
+*.mov
+*.avi
+
+# Conda/pip
+.conda/
+venv/
